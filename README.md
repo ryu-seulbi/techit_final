@@ -8,10 +8,10 @@
 - `check_model structure, configuration.ipynb` : 모델 구조 살펴보기
 - `eda_data.ipynb` : 데이터 탐색
 - `evaluate_electra.ipynb` : koelectra모델 평가 과정
-- `evaluate_kogpt2.ipynb` : 평가 과정
-- `evaluate,text-generation_kogpt2_small.ipynb` : 평가, 텍스트 생성 예시(n_ctx 축소 모델에 대한)
-- `preprocess_gpt.ipynb` : 전처리 과정
-- `text-generation_kogpt2.ipynb` : 최종 텍스트 생성 예시
-- `train_kogpt2_wellness_1_hyper.ipynb` : 학습 과정(기존 조건, 로스, 체크포인트 저장) 
-- `train_kogpt2_wellness_2_turning.ipynb` : 학습 과정(lr, generate, GPU 변경 )
-- `train_kogpt2_wellness_3_small.ipynb` : 학습 과정(n_ctx 변경)
+- `evaluate_kogpt2.ipynb` : kogpt모델 평가 과정
+- `evaluate,text-generation_kogpt2_small.ipynb` : kogpt모델 평가, 텍스트 생성 예시(n_ctx 축소 모델에 대한)
+- `preprocess_gpt.ipynb` : kogpt모델 전처리 과정
+- `text-generation_kogpt2.ipynb` : kogpt모델 최종 텍스트 생성 예시
+- `train_kogpt2_wellness_1_hyper.ipynb` : kogpt모델 학습 과정(기존 조건, 로스, 체크포인트 저장) 
+- `train_kogpt2_wellness_2_turning.ipynb` : kogpt모델 학습 과정(lr, generate, GPU 변경 )
+- `train_kogpt2_wellness_3_small.ipynb` : kogpt모델 학습 과정(n_ctx 변경)
